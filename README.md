@@ -23,12 +23,6 @@ It lets you add, complete, and delete tasks easily — perfect for staying organ
 
 ---
 
-## 📸 Preview
-
-*Screenshot goes here*  
-(Add a screenshot of your app once it's uploaded!)
-
----
 
 ## 📂 How to Run
 
